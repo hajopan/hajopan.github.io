@@ -1,0 +1,13 @@
+
+.jumbotron{
+	padding-top: 7rem;
+	background: rgb(193,235,167);
+background: linear-gradient(0deg, rgba(193,235,167,0.8827906162464986) 47%, rgba(131,182,230,0.908000700280112) 74%, rgba(131,182,230,0.908000700280112) 75%);
+}
+#project{
+	background-color: #a5f0ba;
+	/*background-color: #c1eba7;*/
+}
+section{
+	padding-top: 5rem;
+}
